@@ -1,6 +1,6 @@
 # 🚀 TakeUForward POTD
 
-A collection of my daily **Problem of the Day (POTD)** solutions from [TakeUForward](https://takeuforward.org/), focused on improving **Data Structures & Algorithms (DSA)** and problem-solving skills.
+A collection of my daily **Problem of the Day (POTD)** solutions from [TakeUForward](https://takeuforward.org/profile/shriram_02), focused on improving **Data Structures & Algorithms (DSA)** and problem-solving skills.
 
 ## 📌 About
 
