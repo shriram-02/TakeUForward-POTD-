@@ -1,10 +1,10 @@
 # 🚀 TakeUForward POTD
 
 A collection of my daily **Problem of the Day (POTD)** solutions from [TakeUForward](https://takeuforward.org/profile/shriram_02), focused on improving **Data Structures & Algorithms (DSA)** and problem-solving skills.
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashwant330&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+### 🔝 Top Contributed Repo
+[](https://github-contributor-stats.vercel.app/api?username=Yashwant330&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
